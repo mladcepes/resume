@@ -2879,11 +2879,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #3234b3;
+  color: #3178c6;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #221c79;
+  color: #3178c6;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1f1db1 !important;
+  background-color: #3178c6 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10021,7 +10021,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #3178c6;
 }
 
 @media (min-width: 992px) {
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #1f1db1;
+  background-color: #3178c6;
 }
 
 .dev-icons {
