@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 6rem;
+  font-size: 4.5rem;
 }
 
 h2, .h2 {
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #3178c6 !important;
+  background-color: #007bff !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
