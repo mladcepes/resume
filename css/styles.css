@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #1f1db1;
   text-decoration: underline;
 }
 
@@ -2879,11 +2879,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #bd5d38;
+  color: #3234b3;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #824027;
+  color: #221c79;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -3926,7 +3926,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #1c1e92;
 }
 
 .nav-fill > .nav-link,
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #1f1db1 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #1f1db1;
 }
 
 .dev-icons {
